@@ -2,7 +2,8 @@
 Instalación de Klipper en la Anycubic Kobra 2 usando una Raspberry Pi 4 como host. Desbloquea el rendimiento de la impresora (Input Shaping, Pressure Advance) con hardware 100% de fábrica, sin modificaciones físicas. Incluye el archivo printer.cfg base para empezar.
 
 Klipper para Anycubic Kobra 2 (Hardware Stock)
-Repositorio para instalar Klipper en la Anycubic Kobra 2 usando una Raspberry Pi 4. Desbloquea el rendimiento de la impresora (Input Shaping, Pressure Advance) con hardware 100% de fábrica, sin modificaciones físicas. 
+Repositorio para instalar Klipper en la Anycubic Kobra 2 usando una Raspberry Pi 4. Desbloquea el rendimiento de la impresora (Input Shaping, Pressure Advance) con hardware 100% de fábrica, sin modificaciones físicas.
+
 📖 Introducción
 Este repositorio contiene una guía completa y los archivos de configuración necesarios para instalar y configurar el firmware Klipper en una impresora 3D Anycubic Kobra 2, utilizando una Raspberry Pi 4 como host.
 
